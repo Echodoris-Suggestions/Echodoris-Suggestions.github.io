@@ -20,6 +20,7 @@ h1 {
 
 form input {
     background: #f8f8f8;
+    color: #333;
 
     border: none;
     border-left: 2px solid #fff;
@@ -43,7 +44,7 @@ form input:focus {
     background: transparent;
     border: none;
 
-    color: #00f28f;
+    color: #0088ff2;
     cursor: pointer;
 
     font-size: 36px;
@@ -54,7 +55,7 @@ form input:focus {
 }
 
 .btn:hover {
-    background: #00f28f;
+    background: #008ff2;
     color: #fff;
 }
 
